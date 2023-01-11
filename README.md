@@ -24,6 +24,8 @@ Cara Menjalankan Program :
 
 Berikut link repository github :
 
+https://youtu.be/F0fb75X6Ax4
+
 https://github.com/FathiaDjawas/Project-UAS.git
 
 Sekian, Terima Kasih
