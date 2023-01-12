@@ -22,9 +22,9 @@ Cara Menjalankan Program :
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
-Berikut link repository github :
+[Video Youtube](https://youtu.be/F0fb75X6Ax4)
 
-https://youtu.be/F0fb75X6Ax4
+Berikut link repository github :
 
 https://github.com/FathiaDjawas/Project-UAS.git
 
